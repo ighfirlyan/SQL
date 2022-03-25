@@ -1,0 +1,3 @@
+"D:\Digital School\sql\imdb_movie_dumpfile.sql"
+
+mysql -u root -p

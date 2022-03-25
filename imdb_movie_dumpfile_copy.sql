@@ -18,9 +18,6 @@
 --
 -- Table structure for table `movies`
 --
-CREATE DATABASE /*!32312 IF NOT EXISTS*/`imdb_movie` /*!40100 DEFAULT CHARACTER SET latin1 */;
-
-USE imdb_movie;
 
 DROP TABLE IF EXISTS `movies`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
